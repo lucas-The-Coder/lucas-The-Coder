@@ -4,7 +4,7 @@ I'm Luke Dennis, a passionate coder with a keen interest in AI/ML and automation
 
 ## About Me
 
-I'm a self-driven developer based in an undisclosed location, focusing on building innovative solutions through technology. I am currently exploring AI/ML and automation concepts to deepen my understanding of these exciting fields.
+I'm a self-driven developer based in South Africa, focusing on building innovative solutions through technology. I am currently exploring AI/ML and automation concepts to deepen my understanding of these exciting fields.
 
 ## 🛠️ Skills & Technologies
 

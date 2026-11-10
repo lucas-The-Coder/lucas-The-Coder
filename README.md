@@ -40,8 +40,8 @@ One program that runs 4 security tools and prints one SOC report.
 | Language | Proficiency | Used For |
 | :--- | :--- | :--- |
 | **Python** | Advanced | Security automation, log parsing, API integrations, sockets, Flask dashboards |
-| **C#** | Intermediate | Desktop applications, finance tools, .NET fundamentals |
-| **JavaScript** | Intermediate | Web frontends, API consumption, dashboard interfaces |
+| **C#** | Advanced | Desktop applications, finance tools, .NET fundamentals |
+| **JavaScript** | Advanced | Web frontends, API consumption, dashboard interfaces |
 
 ### Databases
 

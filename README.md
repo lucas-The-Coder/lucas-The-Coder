@@ -35,15 +35,21 @@ One program that runs 4 security tools and prints one SOC report.
 
 ## 🛠 Skills & Technologies
 
-### 3 Languages I Use
-**Python** - Primary language. Security automation, log parsing, APIs, sockets, Flask
-**C#** - Desktop apps, finance tools, .NET fundamentals
-**JavaScript** - Web frontends, APIs, dashboards, automation
+### Languages
 
-### 3 Databases I Use
-**SQLite** - Lightweight SOC tools, alerts storage, local apps
-**PostgreSQL** - Relational data, production-style backends, port 5432 in my scanner tests
-**【entity-MongoDB¦canonical_name=MongoDB】** - Flexible JSON data, logs, rapid prototyping
+| Language | Proficiency | Used For |
+| :--- | :--- | :--- |
+| **Python** | Advanced | Security automation, log parsing, API integrations, sockets, Flask dashboards |
+| **C#** | Intermediate | Desktop applications, finance tools, .NET fundamentals |
+| **JavaScript** | Intermediate | Web frontends, API consumption, dashboard interfaces |
+
+### Databases
+
+| Database | Used For |
+| :--- | :--- |
+| **SQLite** | Lightweight storage for SOC tools, alerts, and local applications |
+| **PostgreSQL** | Relational data, production-style backends, structured alert data |
+| **【entity-MongoDB¦canonical_name=MongoDB】** | Flexible JSON document storage for logs and rapid prototyping |
 
 ### Security Skills
 - SOC Triage & Alert Analysis

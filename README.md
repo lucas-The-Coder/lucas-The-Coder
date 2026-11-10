@@ -49,7 +49,7 @@ One program that runs 4 security tools and prints one SOC report.
 | :--- | :--- |
 | **SQLite** | Lightweight storage for SOC tools, alerts, and local applications |
 | **PostgreSQL** | Relational data, production-style backends, structured alert data |
-| **【entity-MongoDB¦canonical_name=MongoDB】** | Flexible JSON document storage for logs and rapid prototyping |
+| **MongoDB** | Flexible JSON document storage for logs and rapid prototyping |
 
 ### Security Skills
 - SOC Triage & Alert Analysis
